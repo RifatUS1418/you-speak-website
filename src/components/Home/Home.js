@@ -15,6 +15,7 @@ const Home = () => {
             .then(data => setCourses(data))
     })
 
+    // handle course all course direction path
     const handleSeeCourse = () => {
         history.push('./courses')
     }
