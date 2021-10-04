@@ -1,0 +1,44 @@
+.img-cover img{
+    width: 100%;
+    filter: brightness(70%);
+}
+
+.head-banner{
+    padding-left: 50px;
+    position: absolute;
+    color: white;
+    top: 400px;
+    z-index: 3;
+}
+
+.head-para{
+    font-size: 30px;
+}
+
+.head-title h1{
+    font-size: 80px;
+    font-weight:400
+}
+
+.head-title span{
+    font-weight: bold;
+}
+
+.course-form-container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.form{
+    margin: 30px;
+}
+
+.form input{
+    width: 100%;
+    border: none;
+    height: 15px;
+    padding: 30px;
+    font-weight: 700;
+    border-bottom: 1px solid grey;
+}
+

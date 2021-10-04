@@ -1,0 +1,21 @@
+.about{
+    margin: 80px;
+    font-weight: 400;
+}
+.about-head h1{
+    font-weight: 400;
+}
+.about-container{
+    display: flex;
+    margin: 40px;
+    justify-content: space-between;
+}
+
+.sub-container{
+    margin: 20px;
+    padding: 20px;
+    width: 50%;
+    height: 350px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border-radius: 10px;
+}

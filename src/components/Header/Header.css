@@ -1,0 +1,25 @@
+.navbar{
+    position: absolute;
+}
+.container{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    position: sticky;
+}
+.logo{
+    font-weight: bolder;
+    font-size: 40px;
+}
+.nav-item{
+    text-decoration: none;
+    font-weight: 600;
+    padding-right: 35px;
+    padding-left: 35px;
+    color: gray;
+    font-size: 20px;
+    
+}

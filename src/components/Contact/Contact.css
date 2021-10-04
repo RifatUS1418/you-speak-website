@@ -1,0 +1,21 @@
+.contact{
+    display: flex;
+    justify-content: space-between;
+}
+.img-teacher{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+.text-area{
+    border: none;
+    border-bottom: 1px solid gray;
+    padding-left: 30px;
+    margin-left: 30px;
+}
+.teacher {
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+    ;
+}
